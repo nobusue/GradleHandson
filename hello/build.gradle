@@ -1,0 +1,4 @@
+task helloWorld << {
+  println 'Hello world.'
+}
+
