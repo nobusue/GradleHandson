@@ -6,3 +6,5 @@ groovy-quickstart/.gradle
 groovy-quickstart/build
 webapp-quickstart/.gradle
 webapp-quickstart/build
+gradle-wrapper/.gradle
+gradle-wrapper/build
